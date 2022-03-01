@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At Theobalds, the 12. of Aprill 1622. The copy of a reference from the Kings most excellent Maiesty: as also a letter from the right honourable lords of His Maiesties most honourable Priuy Councell, to the most reuerend fathers in God, the lords arch-bishops of Canterbury and Yorke their graces.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08204</idno>
+            <idno type="STC">STC 25375A.2</idno>
+            <idno type="STC">ESTC S1723</idno>
+            <idno type="EEBO-CITATION">71305220</idno>
+            <idno type="OCLC">ocm 71305220</idno>
+            <idno type="VID">183944</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183944)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2214:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At Theobalds, the 12. of Aprill 1622. The copy of a reference from the Kings most excellent Maiesty: as also a letter from the right honourable lords of His Maiesties most honourable Priuy Councell, to the most reuerend fathers in God, the lords arch-bishops of Canterbury and Yorke their graces.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I).</author>
+                  <author>Whitbourne, Richard, 1561-1635.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>F. Kingston,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1622].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Head-piece.</note>
+                  <note>Signature: [par.]².</note>
+                  <note>The king's grant of copyright for 21 years to Richard Whitbourne to print and sell his book, and reference for raising money. Also includes Whitbourne's letter naming supporters of his ventures into the colonies of North America, and the profits to be derived from trade to those parts.</note>
+                  <note>Place and publisher suggested by STC (2nd ed.).</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>North America --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+               <term>Great Britain --  Colonies --  Early work to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="license">
+            <pb facs="tcp:183944:1"/>
+            <opener>
+               <dateline>At Theobalds, <date>the 12. of <hi>April</hi> 1622.</date>
+               </dateline>
+            </opener>
+            <head type="sub">The Copy of a Reference from the Kings moſt Excellent Ma<g ref="char:EOLhyphen"/>iesty: As alſo a Letter from the Right Honourable Lords of his Maiesties most Honourable Priuy Councell, to the moſt Reuerend Fathers in God, the Lords Arch-Biſhops of Canterbury and Yorke their Graces.</head>
+            <p>HIs Maieſty is graciouſly pleaſed, That the Lords Archbiſhops of Canterbury and Yorke, doe in their ſeuerall Prouinces proceed according to the Let<g ref="char:EOLhyphen"/>ters of the Lords of the Councell, bearing date the laſt of Iune 1621. aſwell in recommending Captaine <hi>Whitbournes</hi> diſcourſe concerning <hi>New-found-land,</hi> ſo as the ſame may be diſtributed to the ſeuerall Pariſhes of this Kingdome, for the incouragement of Aduenturers vnto the Plantation there; As alſo by furthering (in the moſt fauorable and effectuall maner they can) the collections to be thereupon made in all the ſaid Pariſhes, towards the charge of printing and diſtributing thoſe Bookes, and the ſaid Captaine <hi>Whitbournes</hi> good inde<g ref="char:EOLhyphen"/>uours, and ſeruice, with expence of his time and meanes in the aduancing of the ſaid Plantation; and his ſeuerall great loſſes receiued at Sea by Pyrats and otherwiſe, of which his Maie<g ref="char:EOLhyphen"/>ſty hath beene credibly certified; And further his Maieſties pleaſure is, that the ſaid Captaine <hi>Whitbourne</hi> ſhall haue the ſole printing of his booke for one and twenty yeares.</p>
+            <closer>God ſaue the King.</closer>
+         </div>
+         <div type="license">
+            <pb facs="tcp:183944:2"/>
+            <p>AFter our very hearty Commendations to your good Lordſhips, Whereas Captaine <hi>Richard Whitbourne</hi> of <hi>Exmouth,</hi> in the County of <hi>Deuon,</hi> Gentleman, hauing ſpent much time in <hi>New-found-land</hi> (whither he hath made ſundry voyages and ſome by expreſſe Commiſſions) hath ſet downe in wryting diuers good obſeruations and notes touching the ſtate and condition of that Country, and the plan<g ref="char:EOLhyphen"/>tation there, which being by order from vs now printed: It is deſired to be publiſhed throughout the Kingdome, for the furthering and aduancement of the ſaid plantation, and to giue incouragement to ſuch as ſhalbe willing to aduenture therein, and aſſiſt the ſame, either in their perſons or other<g ref="char:EOLhyphen"/>wiſe, to which we thinke the publication of this Booke may much conduce: And we doe giue good approbation to his good indeauours and purpoſe. So haue we thought fit, earneſtly to recommend him vnto your Lordſhips good fauours, both for the diſtribution of his Books within the Prouinces of <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> and <hi>Yorke,</hi> vnto the ſeuerall Pariſhes thereof, and alſo for your Lordſhips helpe and furtherance, that after his great trauels and charges, wherein he hath ſpent much of his time and meanes, hauing long time been a Merchant of good eſtate, he may reape by your Lordſhips aſſiſtance ſome profit of his labours, and towards the printing and diſtributing the ſaid Bookes by ſuch a voluntary contribution, as ſhalbe willingly giuen and col<g ref="char:EOLhyphen"/>lected for him within the ſeuerall Pariſh Churches of the ſaid Prouinces: which will be both a good incouragement vnto others in the like inde<g ref="char:EOLhyphen"/>uours for the ſeruice of their Country, and ſome reward to him for his great charge, trauels, and diuers loſſes at Sea which he hath receiued, as we are credibly certified. And ſo commending him earneſtly to your good Lordſhips, We bid your Lordſhips very heartily farewell.</p>
+            <closer>
+               <dateline>From White<g ref="char:EOLhyphen"/>hall <date>the laſt day of Iune 1621.</date>
+               </dateline>
+               <signed>Signed by the
+<list>
+                     <item>Lord Treaſurer,</item>
+                     <item>Lord Priuie Seale,</item>
+                     <item>Duke of Lenoxe,</item>
+                     <item>Marqueſſe Hambleton,</item>
+                     <item>Earle of Arundell,</item>
+                     <item>Earle of Kelley,</item>
+                     <item>Lord Viſcount Doncaſter,</item>
+                     <item>Lord Viſcount Faulkland,</item>
+                     <item>Maſter Treaſurer,</item>
+                     <item>Maſter Secretary Caluert,</item>
+                     <item>Maſter of the Rolles.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:183944:2"/>
+            <head>The names of ſome, who haue vndertaken to helpe and aduance his Maieſties Plantation in the New-found-land. <hi>viz.</hi>
+            </head>
+            <p>THe right Honorable, <hi>Henry</hi> Lord <hi>Cary,</hi> Viſcount of Faulke-land, Lord Deputy Generall of the Kingdome of Ireland, hath vnder<g ref="char:EOLhyphen"/>taken to plant a Colony of his Maieſties ſubiects in the <hi>New-found-land,</hi> and his Lordſhip is well pleaſed to entertaine ſuch as are willing to be Aduenturers with him therein, vpon ſuch Conditions as may appeare in the latter part of this Booke: And in his Lordſhips ab<g ref="char:EOLhyphen"/>ſence, he hath authorized his Agent, Maſter <hi>Leonard Wellſted,</hi> Gentleman, by warrant vnder his hand and Seale, to ratifie whatſoeuer ſhall be by him concluded therein. The ſaid Maſter <hi>Wellſteds</hi> Chamber is neere to one Maſter <hi>Garlands</hi> houſe, at the lower end of Saint Martins lane in the field.</p>
+            <p>The Right Honourable Sir <hi>George Caluert</hi> Knight, principall Secre<g ref="char:EOLhyphen"/>tarie vnto the Kings most excellent Maieſty, hath alſo vndertaken to plant a large Circuit of that Country: who hath already ſent thither this yeare and the former yeare, a great number of men and women, with all neceſſarie prouiſions fit for them; where they liue pleaſantly, building of houſes, clean<g ref="char:EOLhyphen"/>ſing of land for Corne, and meddowes, Cabage, Carrets, Turneps, and ſuch like; as alſo for Woad and Tobacco. Likewiſe they are there preparing to make Salt, for the preſeruing of fiſh another yeare, and for diuers other ſeruices. And his Honour is likewiſe well pleaſed to entertaine ſuch as will aduenture with him therein, vpon very fit conditions.</p>
+            <p>The Worſhipfull <hi>Iohn Slany</hi> of <hi>London</hi> Merchant, who is one of the vndertakers of the <hi>New-found-land</hi> Plantation, &amp; is Treaſurer vnto the Patentees of that Society, who haue maintained a Colony of his Maie<g ref="char:EOLhyphen"/>ſties ſubiects there aboue twelue yeares, and they are willing to entertaine ſuch as will further his Maieſties ſaid Plantation, vpon fit conditions.</p>
+            <p>Diuers Worſhipfull Citizens of the City of <hi>Briſtoll,</hi> haue vndertaken to plant a large Circuit of that Countrey, and they haue maintained a Colony of his Maieſties ſubiects there any time theſe fiue yeares, who haue builded there faire houſes, and done many other good ſeruices, who liue there very pleaſantly, and they are well pleaſed to entertaine vpon fit conditions, ſuch as wilbe Aduenturers with them.</p>
+            <p>The Worſhipfull <hi>William Vaughan</hi> of <hi>Tarracod,</hi> in the County of <hi>Car<g ref="char:EOLhyphen"/>marthen,</hi> Doctor of the Ciuill law, hath alſo vndertaken to plant a Circuit
+<pb facs="tcp:183944:3" rendition="simple:additions"/>in the <hi>New-found-land;</hi> and hath in two ſeuerall yeares ſent thither di<g ref="char:EOLhyphen"/>uers men and women, and he is willing to entertaine ſuch as will be Aduen<g ref="char:EOLhyphen"/>turers with with him vpon fit conditions.</p>
+            <p>And there are many other worthy perſons Aduenturers in the ſaid Plantation, whoſe names are not herein mentioned. And it is well hoped, that diuers others wil alſo put their helping hand to aduance the ſame, when they are giuen to vnderſtand what honour and benefit may accrue thereby. And if his Maieſties ſubiects of this Kingdome may be willing to ſet foorth from euery ſeuerall County, but one good ſhip yearely thither, with people and prouiſions fit for them, it will be then not onely a great honour and benefit vnto his Maieſty, but alſo a great increaſe of ſhipping and Mariners, and the imploying and inriching of many thouſands of poore people which now liue chargeable to the Pariſhioners. The which may be eaſily performed by the able ſubiects, to ſet forth the charge at firſt, and ſo euery Pariſh to receiue yearely their equall parts of the benefit which may accrue by the ſaid ſtocke; and thereby not onely disburden yearely themſelues of ſome of thoſe which lie chargeable vnto them within their ſeuerall Pariſhes: but alſo yearely yeeld a great benefit to euery ſeuerall County, though it lie ſomething remote from the Sea-coaſt, if they imploy a diſcreet honeſt man therein, who may yearely be accomptable to euery Pariſh of the charge, and likewiſe the benefit. The which will not be any way burdenſome or hurtfull vnto any; as the following diſcourſe which I haue written, will plainly informe them.</p>
+            <closer>
+               <dateline>From my Chamber at the ſigne of the gilded Cocke in <hi>Pater-noſter-Row</hi> in <hi>London.</hi>
+               </dateline> 
+               <signed>R. W.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
